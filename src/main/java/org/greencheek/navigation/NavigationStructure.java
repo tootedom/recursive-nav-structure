@@ -14,6 +14,6 @@ public interface NavigationStructure {
 //
 //    Clothing -> Jackets -> Sport
 //
-    public Set<NavigiationNode> getParents(String... navigationId);
+    public Set<NavigationNode> getParents(String... navigationId);
 
 }

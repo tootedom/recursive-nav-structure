@@ -9,5 +9,5 @@ package org.greencheek.navigation;
  */
 public interface HierarchyLookup {
 
-    public NavigiationNode getHierarchy(String id);
+    public NavigationNode getHierarchy(String id);
 }

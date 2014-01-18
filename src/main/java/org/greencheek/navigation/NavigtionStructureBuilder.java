@@ -13,5 +13,5 @@ import java.io.IOException;
  */
 public interface NavigtionStructureBuilder {
     public NavigationStructure build() throws IOException, SolrServerException;
-    public NavigtionStructureBuilder add(NavigiationNode node);
+    public NavigtionStructureBuilder add(NavigationNode node);
 }
